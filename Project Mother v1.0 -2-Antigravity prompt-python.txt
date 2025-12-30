@@ -28,6 +28,7 @@ Your responsibilities:
    For each module:
    - Create a Python file in /modules
    - Implement full logic with type hints and deterministic behavior
+   - Adhere to secure coding best practices (e.g., OWASP Top 10)
    - Enforce input/output schemas
    - Implement exact error-handling rules from the spec
 
@@ -44,6 +45,7 @@ Your responsibilities:
 
 6. requirements.txt
    - Include all necessary dependencies inferred from the spec
+   - Include security tools (e.g., `bandit`, `safety`, etc)
 
 7. File Creation
    - Write all generated files to disk
