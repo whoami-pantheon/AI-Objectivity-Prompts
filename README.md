@@ -22,9 +22,9 @@ The future of software development will involve a symbiotic partnership between 
 
 Project Lattice transforms a standard AI assistant into a rigorous, objective reasoning partner. Its goal is not to provide comforting answers but to stress-test ideas, identify logical flaws, and surface non-obvious connections. It prioritizes cold, hard truth over agreement, making it an invaluable tool for personal growth, strategic thinking, and decision-making.
 
-- **`Project Lattice v1.0 ChatGPT Prompt.txt`**: The initial version focused on establishing a baseline of objectivity. It instructs the AI to hold its ground, avoid servility and moralizing, and test the user's reasoning.
+- **`Project Lattice v1.0 AI Prompt.txt`**: The initial version focused on establishing a baseline of objectivity. It instructs the AI to hold its ground, avoid servility and moralizing, and test the user's reasoning.
 
-- **`Project Lattice v2.0 ChatGPT Prompt.txt`**: A more advanced and structured evolution of v1.0. This prompt directs the AI to perform deeper analysis, identifying second-order effects, structural asymmetries, and flawed mental frames. It's designed to sharpen the user's foresight and strategic capabilities.
+- **`Project Lattice v2.0 AI Prompt.txt`**: A more advanced and structured evolution of v1.0. This prompt directs the AI to perform deeper analysis, identifying second-order effects, structural asymmetries, and flawed mental frames. It's designed to sharpen the user's foresight and strategic capabilities.
 
 
 ### Project Mother: The Secure System Architect & Builder
@@ -52,7 +52,7 @@ This framework embeds security into the earliest stages of the development lifec
 
 1.  **Select a Prompt**: Choose the project file that matches your strategic goal.
 2.  **Initiate Session**: Copy the entire content of the chosen prompt file.
-3.  **Paste as First Message**: In a new session with the appropriate AI model (e.g., ChatGPT-4, Gemini 2.5 Pro, Google Antigravity IDE), paste the copied content as the initial instruction.
+3.  **Paste as First Message**: In a new session with the appropriate AI model (e.g., ChatGPT-4, Gemini 2.5 Pro, Google Antigravity IDE), paste the copied content as the initial instruction. For persistence, you can also add it to custom instructions or instructions for Gemini.
 4.  **Provide Input**:
     - For **Project Lattice**, you can begin conversing with the AI immediately after the initial prompt.
     - For **Project Mother**, append your idea where the prompt indicates `<INPUT YOUR IDEA>`. For the second stage, paste the output from the first prompt where it says `<PASTE THE GEMINI 2.5 PRO OUTPUT HERE>`.
