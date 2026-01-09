@@ -50,7 +50,7 @@ This framework embeds security into the earliest stages of the development lifec
 
 ## Operational Procedure
 
-1.  **Select a Prompt**: Choose the project file that matches your strategic goal.
+1.  **Select a Prompt**: Choose the project file that matches your intended goal.
 2.  **Initiate Session**: Copy the entire content of the chosen prompt file.
 3.  **Paste as First Message**: In a new session with the appropriate AI model (e.g., ChatGPT-4, Gemini 2.5 Pro, Google Antigravity IDE), paste the copied content as the initial instruction. For persistence, you can also add it to custom instructions for ChatGPT or instructions for Gemini. After this, you won't need to paste it again, it'll persist in new conversations.
 4.  **Provide Input**:
