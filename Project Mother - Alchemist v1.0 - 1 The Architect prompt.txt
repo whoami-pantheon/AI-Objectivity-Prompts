@@ -72,6 +72,7 @@ Produce all sections in the exact order below:
     - Include safe-failure enforcement rules
 
 Your output must be complete enough that Antigravity can generate code and run the workflow with no interpretation required.
+Place the output in a file called "system_specification.txt".
 
 My Idea:
 <INPUT YOUR IDEA>
